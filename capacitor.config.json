@@ -1,0 +1,8 @@
+{
+  "appId": "uk.co.codeswag.camera",
+  "appName": "codeswag camera",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
